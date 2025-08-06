@@ -6,3 +6,5 @@ When you unequip it, it restores to its original speed.
 Before running the script, ensure that you have installed:
 `pip install keyboard ctypes`
 
+https://static.wikia.nocookie.net/mad-city/images/1/16/Thumbnail1.jpg/revision/latest?cb=20250725173233
+
