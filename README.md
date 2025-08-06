@@ -4,5 +4,5 @@ This was made because in the game, your mouse speed becomes drastically smaller 
 When you unequip it, it restores to its original speed.
 
 Before running the script, ensure that you have installed:
-`!pip install keyboard ctypes`
+`pip install keyboard ctypes`
 
